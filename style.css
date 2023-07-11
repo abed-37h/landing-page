@@ -30,10 +30,6 @@ button:hover {
     background-color: #6d747d;
 }
 
-.hero .container button:hover {
-    border: 1px #6d747d solid;
-}
-
 #header {
     background-color: #1F2937;
     padding: 16px 0;
@@ -66,12 +62,12 @@ button:hover {
     gap: 16px;
 }
 
-.nav-bar ul li a {
+.nav-link {
     color: #E5E7EB;
     font-size: 18px;
 }
 
-.nav-bar ul li a:hover {
+.nav-link:hover {
     text-decoration: underline;
 }
 
@@ -90,19 +86,23 @@ button:hover {
     gap: 16px;
 }
 
-.hero .container h1 {
+.hero-main {
     color: #F9FAF8;
     font-size: 48px;
     font-weight: 900;
 }
 
-.hero .container p {
+.hero-secondary {
     color: #E5E7EB;
     font-size: 18px;
 }
 
 .hero .container button {
     border: 1px #3882F6 solid;
+}
+
+.hero .container button:hover {
+    border: 1px #6d747d solid;
 }
 
 .hero img {
