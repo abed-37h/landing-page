@@ -27,3 +27,7 @@ An example of a landing page to practice and showcase my CSS knowledge.
 
 - ![Algorithms icon](images/datastructures-and-algorithms.png)
     [Software development icons created by Freepik - Flaticon](https://www.flaticon.com/free-icons/software-development "software development icons")
+
+## Citation
+- Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program.
+    ["Linus Torvalds Quotes." BrainyQuote.com. BrainyMedia Inc, 2023. 15 July 2023.] (https://www.brainyquote.com/quotes/linus_torvalds_367382)
