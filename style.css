@@ -145,3 +145,34 @@ button:hover {
     font-size: 18px;
     max-width: 200px;
 }
+
+#inspiring-quote {
+    background-color: #E5E7EB;
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#inspiring-quote .container {
+    width: 825px;
+    display: flex;
+    flex-flow: row-reverse wrap;
+    gap: 8px;
+}
+
+.quote {
+    color: #1F2937;
+    font-size: 36px;
+    font-weight: 200;
+    font-style: italic;
+    quotes: none;
+    margin-top: 28px;
+}
+
+.author {
+    color: #1F2937;
+    font-size: 24px;
+    font-weight: 900;
+    margin-right: 42px;
+}
