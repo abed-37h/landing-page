@@ -208,3 +208,16 @@ button:hover {
 #call-to-action button {
     border: 2px #F9FAF8 solid;
 }
+
+#footer {
+    background-color: #1F2937;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+}
+
+footer {
+    color: #E5E7EB;
+    font-size: 18px;
+}
